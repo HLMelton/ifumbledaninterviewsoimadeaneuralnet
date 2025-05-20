@@ -1,4 +1,4 @@
-# IFumbledAnInterviewSoIBuiltANeuralNetwork
+# IFumbledAnInterviewSoIMadeANeuralNetwork
 Long story short, I fumbled an interview. Hard in fact. And to reaffirm that I know a little bit about what I'm talking about, I built a neural net...... from scratch using nothing but Numpy, Pandas and MatplotLib. 
 
 ## Overview
